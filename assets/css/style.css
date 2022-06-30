@@ -1,0 +1,135 @@
+.header1 {
+  background-image: url(../img/header-bg.jpg);
+  height: 50rem;
+}
+.header1 .container .row .classnaV {
+  position: fixed;
+  padding-right: 40rem;
+}
+.header1 .container .row .class1 {
+  padding-left: 40rem;
+}
+.header1 .container .row .boxstext {
+  padding-top: 20rem;
+  text-align: center;
+}
+.header1 .container .row .boxstext h2 {
+  color: white;
+  font-size: 2rem;
+}
+.header1 .container .row .boxstext h1 {
+  color: white;
+  font-size: 5rem;
+}
+.header1 .container .row .boxstext .clasbutton {
+  padding-top: 4rem;
+  transition: all 2ms;
+}
+.header1 .container .row .boxstext .clasbutton button {
+  width: 11rem;
+  height: 3.5rem;
+  background-color: rgb(250, 213, 2);
+}
+.header1 .container .row .boxstext .clasbutton button:hover {
+  background-color: rgb(124, 118, 81);
+}
+
+.boxmain .container .row .classmaintext {
+  text-align: center;
+  padding-top: 4rem;
+}
+.boxmain .container .row .classcard {
+  display: flex;
+  padding: 2rem;
+}
+.boxmain .container .row .classcard .class2 {
+  padding: 2rem;
+}
+.boxmain .container .row .classcard i {
+  padding-top: 2rem;
+  color: rgb(250, 213, 2);
+  padding-left: 10rem;
+  height: 4rem;
+  width: 4rem;
+  font-size: 4rem;
+}
+.boxmain .container .row .classcard h1 {
+  text-align: center;
+  padding-top: 2rem;
+}
+.boxmain .container .row .classcard p {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.crad {
+  background-color: rgb(224, 233, 230);
+}
+.crad .container .row .classradtext {
+  text-align: center;
+  padding-top: 4rem;
+}
+.crad .container .row .classw {
+  padding: 2rem;
+  background-color: white;
+  padding-top: 4rem;
+  text-align: center;
+}
+
+.footer {
+  background-image: url(../img/Map\ \(2\).jpg);
+  width: 100%;
+  height: 42rem;
+}
+.footer .container .row .footertext {
+  text-align: center;
+  padding-top: 4rem;
+}
+.footer .container .row .footertext h1 {
+  font-size: 4rem;
+  color: white;
+}
+.footer .container .row .footertext p {
+  font-size: 2rem;
+  color: rgb(29, 20, 20);
+}
+.footer .container .row .footermain {
+  padding-top: 3rem;
+  padding: 3rem;
+}
+.footer .container .row .footermain .inputclass {
+  padding: 1rem;
+}
+.footer .container .row .footermain .inputclass input {
+  width: 100%;
+  height: 4rem;
+}
+.footer .container .row .footermain2 {
+  padding: 4rem;
+}
+.footer .container .row .footermain2 input {
+  width: 100%;
+  height: 16rem;
+}
+.footer .container .row .classbuttonfooter {
+  text-align: center;
+}
+.footer .container .row .classbuttonfooter button {
+  width: 11rem;
+  height: 3.5rem;
+  background-color: rgb(250, 213, 2);
+}
+.footer .container .row .classbuttonfooter button:hover {
+  background-color: rgb(124, 118, 81);
+}
+
+.end {
+  padding-top: 2rem;
+  height: 10rem;
+}
+.end .container .iconclass i {
+  font-size: 2rem;
+}
+.end .container .iconclass i:hover {
+  background-color: rgb(250, 213, 2);
+}/*# sourceMappingURL=style.css.map */
